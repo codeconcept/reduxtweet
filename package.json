@@ -1,0 +1,24 @@
+{
+  "name": "reduxtweet",
+  "version": "1.0.0",
+  "description": "tweet clone that uses Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "build": "webpack --progress --watch"
+  },
+  "keywords": [
+    "redux",
+    "es6"
+  ],
+  "author": "samir medjdoub",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015-native-modules": "^6.9.4",
+    "lite-server": "^2.3.0",
+    "webpack": "^2.3.2"
+  }
+}

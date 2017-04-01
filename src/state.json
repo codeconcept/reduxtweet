@@ -1,0 +1,19 @@
+{
+    "tweets":[
+        {
+            "author": "@meanjsfr",
+            "text": "tout premier tweet d'avril",
+            "date": "01/04/2017",
+            "impressions": 147
+        },
+        {
+            "author": "@meanjsfr",
+            "text": "enfin vendredi !",
+            "date": "31/03/2017",
+            "impressions": 147
+        }
+    ],
+    "webSite": "http://meanjs.fr/",
+    "about": "Consacré au développement Full Stack JavaScript",
+    "country": "France"
+}
